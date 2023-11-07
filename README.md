@@ -1,5 +1,5 @@
 ### Hi there 👋 ,I'm Hemanth S Banur
-A passionate undergraduate student(Computer Science and Engineering), <br>I'm dedicated to learning DevOps principles, automating processes.<br>I am using GitHub to share my projects and code, along with contributing with others <br>
+A passionate undergraduate student(Computer Science and Engineering), <br>I'm dedicated to learning Machine Learning, DevOps principles, automating processes.<br>I am using GitHub to share my projects and code, along with contributing with others <br>
 
 📫 How to reach me arjunbanur27@gmail.com
 
