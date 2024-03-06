@@ -3,7 +3,7 @@ A passionate undergraduate student(Computer Science and Engineering), <br>I'm de
 
 📫 How to reach me arjunbanur27@gmail.com
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## `Do an ordinary thing in an Extra-ordinary way`
 
 
 # 💻 Tech Stack:
