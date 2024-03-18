@@ -11,6 +11,7 @@ A passionate undergraduate student(Computer Science and Engineering), <br>I'm de
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&theme=transparent)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjuuuuunnnnn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark&hide_border=false)<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjuuuuunnnnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanth-s-banur-3aaa34284) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arjuuuuunnnnn7) 
