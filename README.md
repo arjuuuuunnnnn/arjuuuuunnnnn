@@ -7,11 +7,11 @@ A passionate undergraduate student(Computer Science and Engineering), <br>I'm de
 
 
 ## Web dev:
-![Web and app](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,firebase,flask,mongodb,postman&theme=light)
+![Web and app](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,firebase,flask,mongodb,postman&theme=dark)
 ## Dev tools:
-![Web and app](https://skillicons.dev/icons?i=azure,debian,docker,github,git,kali,linux,neovim,unity,vim,vscode&theme=light)
+![Web and app](https://skillicons.dev/icons?i=azure,debian,docker,github,git,kali,linux,neovim,unity,vim,vscode&theme=dark)
 ## Languages and frameworks:
-![Web and app](https://skillicons.dev/icons?i=c,cpp,py,tensorflow,flutter&theme=light)
+![Web and app](https://skillicons.dev/icons?i=c,cpp,py,tensorflow,flutter&theme=dark)
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=chartreuse-dark)
