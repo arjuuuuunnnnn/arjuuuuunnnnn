@@ -7,9 +7,15 @@ A passionate undergraduate student(Computer Science and Engineering), <br>I'm de
 
 
 ## Web dev:
-![Web and app](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,firebase,flask,mongodb,postman&theme=dark)
+![Web and app](https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark)
+
+![](https://skillicons.dev/icons?i=nodejs,tailwind,firebase,flask,mongodb&theme=dark)
+
 ## Dev tools:
-![Web and app](https://skillicons.dev/icons?i=azure,debian,docker,github,git,kali,linux,neovim,unity,vim,vscode&theme=dark)
+![](https://skillicons.dev/icons?i=azure,debian,docker,github,git,kali&theme=dark)
+
+![](https://skillicons.dev/icons?i=linux,neovim,unity,vim,vscode,postman&theme=dark)
+
 ## Languages and frameworks:
 ![Web and app](https://skillicons.dev/icons?i=c,cpp,py,tensorflow,flutter&theme=dark)
 
