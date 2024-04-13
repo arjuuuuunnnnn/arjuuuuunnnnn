@@ -24,10 +24,15 @@ A passionate undergraduate student(Computer Science and Engineering), <br>I'm de
 ![Web and app](https://skillicons.dev/icons?i=c,cpp,py,tensorflow,flutter&theme=dark)
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=chartreuse-dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=chartreuse-dark)
+## GitHub Stats:
+<p align="center">
+ <a href="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+ </a>
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark&hide_border=false" alt="GitHub Streaks" />
+ </a>
+</p>
 
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=arjuuuuunnnnn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
