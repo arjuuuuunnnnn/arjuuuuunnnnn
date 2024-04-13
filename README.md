@@ -25,7 +25,7 @@ A passionate undergraduate student(Computer Science and Engineering), <br>I'm de
 
 
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=chartreuse-dark" alt="arjuuuuunnnnn" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=chartreuse-dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=chartreuse-dark)
 
