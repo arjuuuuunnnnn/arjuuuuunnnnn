@@ -24,7 +24,8 @@ A passionate undergraduate student(Computer Science and Engineering), <br>I'm de
 ![Web and app](https://skillicons.dev/icons?i=c,cpp,py,tensorflow,flutter&theme=dark)
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=chartreuse-dark)
+
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=chartreuse-dark" alt="arjuuuuunnnnn" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=chartreuse-dark)
 
