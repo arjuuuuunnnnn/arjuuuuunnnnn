@@ -27,10 +27,10 @@ A passionate undergraduate student(Computer Science and Engineering), <br>I'm de
 ## GitHub Stats:
 <p align="center">
  <a href="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=chartreuse-dark" alt="arjuuuuunnnnn">
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=chartreuse-dark" alt="arjuuuuunnnnn" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=chartreuse-dark" alt="arjuuuuunnnnn" />
  </a>
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=chartreuse-dark" alt="arjuuuuunnnnn">
-    <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=chartreuse-dark" alt="arjuuuuunnnnn" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=chartreuse-dark" alt="arjuuuuunnnnn" />
  </a>
 </p>
 
