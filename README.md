@@ -23,7 +23,6 @@ A passionate undergraduate student(Computer Science and Engineering), <br>I'm de
 ## Languages and frameworks:
 ![Web and app](https://skillicons.dev/icons?i=c,cpp,py,tensorflow,flutter&theme=dark)
 
-
 ## GitHub Stats:
 <p align="center">
  <a href="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=chartreuse-dark" alt="arjuuuuunnnnn">
