@@ -7,7 +7,7 @@ A passionate undergraduate student(Computer Science and Engineering), <br>I'm de
 
 #### `My Portfolio` : [hemanthsbanur.vercel.app](https://hemanthsbanur.vercel.app)
 
-#### ``` Do an ordinary thing in an Extra-ordinary way ```
+*Do an ordinary thing in an Extra-ordinary way*
 
 
 ## Web dev:
