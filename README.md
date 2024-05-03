@@ -33,7 +33,7 @@
  </a>
 </p>
 
-## GitHub Trophies:
+## *GitHub Trophies*:
 ![](https://github-profile-trophy.vercel.app/?username=arjuuuuunnnnn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanth-s-banur-3aaa34284) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arjuuuuunnnnn7) 
+## *Socials*: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanth-s-banur-3aaa34284) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arjuuuuunnnnn7) 
