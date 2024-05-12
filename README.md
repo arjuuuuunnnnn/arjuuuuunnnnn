@@ -24,18 +24,14 @@
 ![Web and app](https://skillicons.dev/icons?i=c,cpp,py,tensorflow,flutter&theme=dark)
 
 ## *GitHub Stats*:
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <a href="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=dark" alt="arjuuuuunnnnn">
-      <img src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=dark" alt="arjuuuuunnnnn" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark" alt="arjuuuuunnnnn">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark" alt="arjuuuuunnnnn" />
-    </a>
-  </div>
-</div>
+<p align="center">
+ <a href="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=dark" alt="arjuuuuunnnnn">
+    <img src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=dark" alt="arjuuuuunnnnn" />
+ </a>
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark" alt="arjuuuuunnnnn">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark" alt="arjuuuuunnnnn" />
+ </a>
+</p>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjuuuuunnnnn&theme=dark" />
 </div>
