@@ -31,10 +31,10 @@
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark" alt="arjuuuuunnnnn">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark" alt="arjuuuuunnnnn" />
  </a>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjuuuuunnnnn&theme=dark" alt="arjuuuuunnnnn">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjuuuuunnnnn&theme=dark" alt="arjuuuuunnnnn"/>
+</a>
 </p>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjuuuuunnnnn&theme=dark" />
-</div>
 
 ## *GitHub Trophies*:
 ![](https://github-profile-trophy.vercel.app/?username=arjuuuuunnnnn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
