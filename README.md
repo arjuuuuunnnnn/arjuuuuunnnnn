@@ -41,4 +41,10 @@
 </tr>
 </table>
 
-## *Socials:* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanth-s-banur-3aaa34284) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arjuuuuunnnnn7) 
+## *Socials:* 
+<a href="https://linkedin.com/in/hemanth-s-banur-3aaa34284/" target="_blank">
+      <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/arjuuuuunnnnn7" target="_blank">
+      <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
