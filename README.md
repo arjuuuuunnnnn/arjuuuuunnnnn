@@ -24,19 +24,21 @@
 ![Web and app](https://skillicons.dev/icons?i=c,cpp,py,tensorflow,flutter&theme=dark)
 
 ## *GitHub Stats:*
-<p align="center">
- <a href="https://hemanthsbanur.vercel.app" alt="arjuuuuunnnnn">
-    <img src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=dark" alt="arjuuuuunnnnn" />
- </a>
- <a href="https://hemanthsbanur.vercel.app" alt="arjuuuuunnnnn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark" alt="arjuuuuunnnnn" />
- </a>
-<a href="https://hemanthsbanur.vercel.app" alt="arjuuuuunnnnn">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjuuuuunnnnn&theme=dark" alt="arjuuuuunnnnn"/>
-</a>
-</p>
+<table>
+	<tr>
+		<td align="center" colspan = "2"><a href = "https://hemanthsbanur.vercel.app"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjuuuuunnnnn&theme=dark"></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://hemanthsbanur.vercel.app"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark&hide_border=true"></a></td>
+		<td><a href="https://hemanthsbanur.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=dark&hide_border=true"></a></td>
+	</tr>
+</table>
 
 ## *GitHub Trophies:*
-![](https://github-profile-trophy.vercel.app/?username=arjuuuuunnnnn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<table>
+<tr>
+    <td colspan = "2"><a href="https://hemanthsbanur.vercel.app"><img width=100% src="https://github-profile-trophy.vercel.app/?username=arjuuuuunnnnn&hide_border=true&count_private=true&column=-1&theme=radical&no-frame=true"></a></td>
+</tr>
+</table>
 
 ## *Socials:* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanth-s-banur-3aaa34284) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arjuuuuunnnnn7) 
