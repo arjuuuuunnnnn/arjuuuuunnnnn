@@ -2,7 +2,7 @@
 *A passionate undergraduate student(Computer Science and Engineering), <br>I'm dedicated to learning Machine Learning, DevOps principles, automating processes*<br>
 
  <a href="mailto:arjunbanur27@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+     <img src=https://img.shields.io/badge/gmail-%232E3440.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;"/>
  </a>
 
 #### *My Portfolio :* [*`hemanthsbanur.vercel.app`*](https://hemanthsbanur.vercel.app)
