@@ -26,18 +26,18 @@
 ## *GitHub Stats:*
 <table>
 	<tr>
-		<td align="center" colspan = "2"><a href = "https://hemanthsbanur.vercel.app"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjuuuuunnnnn&theme=dark"></a></td>
+		<td align="center" colspan = "2"><a href = "https://hemanthsbanur.vercel.app"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjuuuuunnnnn&theme=gotham"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://hemanthsbanur.vercel.app"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=dark&hide_border=true"></a></td>
-		<td><a href="https://hemanthsbanur.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=dark&hide_border=true"></a></td>
+		<td><a href="https://hemanthsbanur.vercel.app"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=gotham&hide_border=true"></a></td>
+		<td><a href="https://hemanthsbanur.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=gotham&hide_border=true"></a></td>
 	</tr>
 </table>
 
 ## *GitHub Trophies:*
 <table>
 <tr>
-    <td colspan = "2"><a href="https://hemanthsbanur.vercel.app"><img width=100% src="https://github-profile-trophy.vercel.app/?username=arjuuuuunnnnn&hide_border=true&count_private=true&column=-1&theme=radical&no-frame=true"></a></td>
+    <td colspan = "2"><a href="https://hemanthsbanur.vercel.app"><img width=100% src="https://github-profile-trophy.vercel.app/?username=arjuuuuunnnnn&hide_border=true&count_private=true&column=-1&theme=chalk&no-frame=true"></a></td>
 </tr>
 </table>
 
