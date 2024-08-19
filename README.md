@@ -5,7 +5,7 @@
      <img src=https://img.shields.io/badge/gmail-%232E3440.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;"/>
  </a>
 
-#### *My Portfolio :* [*`hemanthsbanur.vercel.app`*](https://hemanthsbanur.vercel.app)
+#### *My Portfolio :* [*`hemanths.vercel.app`*](https://hemanths.vercel.app)
 
 *"Do an ordinary thing in an Extra-ordinary way"*
 
