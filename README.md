@@ -63,9 +63,9 @@
 
 ## *GitHub Stats:*
 <table>
-	<tr>
+<!-- 	<tr>
 		<td align="center" colspan = "2"><a href = "https://hemanthsbanur.vercel.app"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjuuuuunnnnn&theme=gotham"></a></td>
-	</tr>
+	</tr> -->
 	<tr>
 		<td><a href="https://hemanthsbanur.vercel.app"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuuuuunnnnn&theme=gotham&hide_border=true"></a></td>
 		<td><a href="https://hemanthsbanur.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=arjuuuuunnnnn&show_icons=true&locale=en&theme=gotham&hide_border=true"></a></td>
