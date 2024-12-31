@@ -7,6 +7,8 @@
 
 #### *My Portfolio :* [*`hemanths.vercel.app`*](https://hemanths.vercel.app)
 
+Also don't forget to read my blogs @ [hemanthsbanur.medium.com](https://hemanthsbanur.medium.com)
+
 *"Do an ordinary thing in an Extra-ordinary way"*
 
 
