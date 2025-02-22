@@ -49,6 +49,10 @@ Also don't forget to read my blogs @ [hemanthsbanur.medium.com](https://hemanths
         <img src="https://skillicons.dev/icons?i=vim" alt="Vim" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
+	<img src="https://skillicons.dev/icons?i=blender" alt="Blender" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
+	<img src="https://skillicons.dev/icons?i=fastapi" alt="Fastapi" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
+	<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
+	<img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
       </div>
     </td>
     <td>
@@ -58,6 +62,7 @@ Also don't forget to read my blogs @ [hemanthsbanur.medium.com](https://hemanths
         <img src="https://skillicons.dev/icons?i=py" alt="Python" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
         <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
         <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
+	<img src="https://skillicons.dev/icons?i=bash" alt="Bash" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
       </div>
     </td>
   </tr>
