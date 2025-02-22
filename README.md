@@ -53,6 +53,7 @@ Also don't forget to read my blogs @ [hemanthsbanur.medium.com](https://hemanths
 	<img src="https://skillicons.dev/icons?i=fastapi" alt="Fastapi" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
 	<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
 	<img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
+	<img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" style="border: 2px solid #555; border-radius: 10px; padding: 5px;">
       </div>
     </td>
     <td>
