@@ -5,9 +5,7 @@
      <img src=https://img.shields.io/badge/gmail-%232E3440.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;"/>
  </a>
 
-My Portfolio @ [hemanths.vercel.app](https://hemanths.vercel.app)
 
-Read my blogs @ [hemanthsbanur.medium.com](https://hemanthsbanur.medium.com)
 
 ## *My Tech Stack:*
 <table style="border-collapse: separate; border-spacing: 10px; width: 100%;">
