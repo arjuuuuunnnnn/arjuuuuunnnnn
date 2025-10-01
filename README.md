@@ -1,5 +1,5 @@
-### *Hi there, I'm Hemanth S Banur*
-*A passionate undergraduate student(Computer Science and Engineering), <br>I'm dedicated to learning Machine Learning, DevOps principles, automating processes*<br>
+### *Hi there, I'm Hemanth*
+Learning functions
 
 ### Find me at
 
