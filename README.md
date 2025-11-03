@@ -7,4 +7,4 @@ Passionate about artificial intelligence and building scalable systems.
 Email: arjunbanur27@gmail.com <br/>
 LinkedIn: [hemanth-s-banur](https://linkedin.com/in/hemanth-s-banur) <br/>
 Medium: [hemanthsbanur](https://hemanthsbanur.medium.com) <br/>
-Portfolio: https://hemanths.vercel.app <br/>
+Portfolio: [hemanths.vercel.app](https://hemanths.vercel.app) <br/>
