@@ -1,4 +1,4 @@
-### *Hi there, I'm Hemanth*
+### Hi there, I'm Hemanth
 An undergraduate Computer Science student at PES University.<br/>
 Passionate about artificial intelligence and building scalable systems.
 
