@@ -11,7 +11,7 @@ Portfolio: [hemanths.vercel.app](https://hemanths.vercel.app) <br/>
 
 <div align="center">
 
-## GitHub Stats
+## GitHub Stats (Rank <img src="https://img.shields.io/badge/dynamic/json?url=https://admincodesgithubstats.vercel.app/stats&query=$.data.rank&label=&color=000000&style=for-the-badge&cacheSeconds=3600" alt="Rank"/>)
 
 <table>
 <tr>
